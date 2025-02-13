@@ -1,0 +1,41 @@
+ADMIN,admin,123
+ADMIN,admin1,0012
+VIP,vip001,v123
+VIP,vip002,elitepass
+VIP,vip003,goldmember
+VIP,vip004,premium2024
+VIP,vip005,specialguest
+ORDER,1001,Normal,John,Pizza & Coke,15.00
+ORDER,1002,Normal,Susan,Burger & Fries,12.50
+ORDER,1003,Normal,Mike,Pasta & Juice,18.00
+ORDER,1004,Normal,Emma,Salad & Smoothie,14.75
+ORDER,1005,Normal,Liam,Sandwich & Coffee,10.00
+ORDER,1006,Normal,Olivia,Grilled Chicken & Rice,20.25
+ORDER,1007,Normal,Noah,Hotdog & Lemonade,9.50
+ORDER,1008,Normal,Ava,Soup & Bread,11.30
+ORDER,1009,Normal,Ethan,Steak & Beer,30.00
+ORDER,1010,Normal,Sophia,Tacos & Margarita,25.00
+ORDER,2001,VIP,Alice,Steak & Wine,50.00
+ORDER,2002,VIP,Bob,Lobster & Champagne,75.00
+ORDER,2003,VIP,Charlie,Grilled Salmon & Red Wine,60.00
+ORDER,2004,VIP,Diana,Caviar & White Wine,85.00
+ORDER,2005,VIP,Eleanor,Roast Duck & Whiskey,55.00
+ORDER,2006,VIP,Frank,Sushi & Sake,48.00
+ORDER,2007,VIP,George,French Cuisine & Cognac,70.00
+ORDER,2008,VIP,Hannah,Buffet Special & Cocktails,65.00
+ORDER,2009,VIP,Isaac,Lamb Chops & Merlot,58.00
+ORDER,2010,VIP,Julia,Premium Pasta & Chardonnay,52.50
+ORDER,3001,Normal,Kevin,Chicken Wings & Beer,22.00
+ORDER,3002,Normal,Linda,Mexican Bowl & Fresh Juice,19.75
+ORDER,3003,Normal,Mark,Veggie Platter & Herbal Tea,17.25
+ORDER,3004,Normal,Nina,Shrimp & White Sauce Pasta,24.50
+ORDER,3005,Normal,Oscar,Fish & Chips,21.00
+ORDER,3006,Normal,Paul,Baked Potato & Iced Tea,15.75
+ORDER,3007,Normal,Quinn,BBQ Ribs & Cola,27.00
+ORDER,3008,Normal,Rachel,Curry Rice & Lassi,18.50
+ORDER,3009,Normal,Steve,Fruit Salad & Water,12.00
+ORDER,3010,Normal,Tina,Cheese Platter & Red Wine,29.00
+ORDER,4001,VIP,Kate,Truffle Pasta & Champagne,80.00
+ORDER,4002,VIP,Liam,Exotic Sushi & Green Tea,68.00
+ORDER,4003,VIP,Maria,Premium Steak & Red Wine,75.50
+ORDER,4004,VIP,Nathan,Seafood Platter & Chardonnay,72.00
