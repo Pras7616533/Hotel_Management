@@ -45,14 +45,18 @@ This Python-based hotel management system provides an interface for admins, VIP 
 
 ## File Structure
 
-- **`hotel_management.py`**: The main Python script containing all functionalities, including authentication, order management, and data storage.
+- **`main.py`**: The main Python script to operate all functionality in a correct order.
+- **`function.py`**: Contains all functionalities.
+- **`panel.py`**: Contents authorisation panel.
+- **`login.py`**:  Grands access to the authorised users.
+- **`db.py`**: Contents and database connection, data loading and data saving operations.
 - **`db.txt`**: The text-based database file storing admins, VIP customers, and order records.
 
 ## Usage
 
 1. Run the program using the following command:
    ```bash
-   python hotel_management.py
+   python main.py
    ```
 
 2. Select an option from the displayed main menu.
